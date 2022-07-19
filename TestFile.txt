@@ -1,2 +1,3 @@
 Hello on Master branch
 US-1 Bug Fixed on QAT in Master/Main Branch
+US-2 Bug Fixed on QAT in Master/Main Branch
